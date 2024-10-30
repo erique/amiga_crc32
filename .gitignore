@@ -1,0 +1,6 @@
+/tools
+crc32_test
+*.o
+*.s.txt
+crc.bin
+*.asm
